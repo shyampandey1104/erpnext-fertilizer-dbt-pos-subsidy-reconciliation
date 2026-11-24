@@ -1,0 +1,30 @@
+{
+ "charts": [],
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Workspace\",\"level\":4}}]",
+ "creation": "2026-04-01 10:00:00.000000",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "octicon octicon-book",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation",
+ "links": [],
+ "modified": "2026-04-01 10:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Fertilizer_Dbt_Subsidy_Core",
+ "name": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation",
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "sequence_id": 1,
+ "shortcuts": [],
+ "title": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation"
+}

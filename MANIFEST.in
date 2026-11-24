@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include fertilizer_dbt_subsidy *.css
+recursive-include fertilizer_dbt_subsidy *.csv
+recursive-include fertilizer_dbt_subsidy *.html
+recursive-include fertilizer_dbt_subsidy *.ico
+recursive-include fertilizer_dbt_subsidy *.js
+recursive-include fertilizer_dbt_subsidy *.json
+recursive-include fertilizer_dbt_subsidy *.md
+recursive-include fertilizer_dbt_subsidy *.png
+recursive-include fertilizer_dbt_subsidy *.py
+recursive-include fertilizer_dbt_subsidy *.svg
+recursive-include fertilizer_dbt_subsidy *.txt
+recursive-exclude fertilizer_dbt_subsidy *.pyc
