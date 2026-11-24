@@ -1,0 +1,104 @@
+{
+ "charts": [
+  {
+   "chart_name": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Volume Trend",
+   "label": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Volume Trend"
+  }
+ ],
+ "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Workspace\", \"level\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Operations\"}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Audit & Compliance\"}}]",
+ "creation": "2026-04-01 10:00:00.000000",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "octicon octicon-package",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation",
+ "links": [
+  {
+   "label": "Operational Documents",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Entry",
+   "label": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Entry",
+   "link_to": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Entry",
+   "link_type": "DocType",
+   "type": "Link"
+  },
+  {
+   "label": "Audit & Reports",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Audit Log",
+   "label": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Audit Log",
+   "link_to": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Audit Log",
+   "link_type": "DocType",
+   "type": "Link"
+  },
+  {
+   "is_query_report": 1,
+   "label": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Summary",
+   "link_to": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Summary",
+   "link_type": "Report",
+   "type": "Link"
+  },
+  {
+   "label": "Configuration",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Settings",
+   "label": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Settings",
+   "link_to": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Settings",
+   "link_type": "DocType",
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-04-01 10:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Fertilizer_Dbt_Subsidy",
+ "name": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation",
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Entry",
+   "label": "Recent Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Entries"
+  }
+ ],
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ],
+ "sequence_id": 1,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "All Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Entrys",
+   "link_to": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Entry",
+   "type": "DocType"
+  },
+  {
+   "color": "Green",
+   "label": "System Settings",
+   "link_to": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Blue",
+   "label": "Compliance Digest",
+   "link_to": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation Summary",
+   "type": "Report"
+  }
+ ],
+ "title": "Erpnext Fertilizer Dbt Pos Subsidy Reconciliation"
+}
